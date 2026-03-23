@@ -4,7 +4,7 @@ This repository hosts the privacy policy for the [Roblox Asset Browser](https://
 
 ## Live page
 
-[https://[yourname].github.io/roblox-asset-browser-privacy/](https://github.com)
+[https://rivrs-roblox.github.io/roblox-asset-browser-privacy/](https://github.com)
 
 ## About the extension
 
